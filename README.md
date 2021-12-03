@@ -1,7 +1,1 @@
-echo "# Disable-Join-and-Leave-Message" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/CurranXMatte/Disable-Join-and-Leave-Message.git
-git push -u origin main
+![image](https://user-images.githubusercontent.com/95493413/144637358-88fd3101-e211-4a67-aba3-fc84ef5a6e80.png)
